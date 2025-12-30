@@ -54,7 +54,7 @@ const InfoModal: React.FC<InfoModalProps> = ({ onClose }) => {
                              <TwitterIcon className="w-5 h-5 text-gray-400 group-hover:text-sky-500" />
                              <div className="text-left">
                                  <div className="text-sm font-bold text-gray-200 group-hover:text-white">X (Twitter)</div>
-                                 <div className="text-xs text-gray-600">@D3VAUX</div>
+                                 <div className="text-xs text-gray-600">@</div>
                              </div>
                          </a>
 
@@ -73,7 +73,7 @@ const InfoModal: React.FC<InfoModalProps> = ({ onClose }) => {
                     </div>
 
                     <div className="mt-8 text-[10px] text-gray-700 font-mono">
-                        © {new Date().getFullYear()} D3VAUX. Open Source License.
+                        © {new Date().getFullYear()} Matthew r. Wensey. MIT Open Source License.
                     </div>
                 </div>
             </div>
