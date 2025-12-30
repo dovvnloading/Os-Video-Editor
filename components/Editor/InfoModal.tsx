@@ -73,7 +73,7 @@ const InfoModal: React.FC<InfoModalProps> = ({ onClose }) => {
                     </div>
 
                     <div className="mt-8 text-[10px] text-gray-700 font-mono">
-                        © {new Date().getFullYear()} Matthew r. Wensey. MIT Open Source License.
+                        © {new Date().getFullYear()} Matthew R. Wesney. MIT License.
                     </div>
                 </div>
             </div>
