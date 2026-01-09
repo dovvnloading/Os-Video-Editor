@@ -33,7 +33,7 @@ const InfoModal: React.FC<InfoModalProps> = ({ onClose }) => {
                          <h3 className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-4">Developer Credits</h3>
                          
                          <a 
-                            href="https://dovvnloading.github.io/" 
+                            href="https://matt-wesney.github.io/website/" 
                             target="_blank" 
                             rel="noopener noreferrer"
                             className="flex items-center gap-4 p-3 rounded bg-osve-panel border border-osve-border hover:border-white hover:bg-osve-active transition-all group"
